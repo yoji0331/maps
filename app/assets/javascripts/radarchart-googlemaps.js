@@ -5,7 +5,7 @@
 var RADAR_CHART = {};
 
 var formatData = [];
-for(var i=0;i<4;i++){
+for(var i=0;i<6;i++){
     formatData[i] = new Array(6);
 }
 
